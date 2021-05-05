@@ -1,0 +1,14 @@
+.button {
+    width: 15vw;
+    height: 15vh;
+    border: none;
+    margin: 20px;
+}
+
+.button_play {
+    background: url("../../images/play.svg") no-repeat center;
+}
+
+.button_pause {
+    background: url("../../images/pause.svg") no-repeat center;
+}
